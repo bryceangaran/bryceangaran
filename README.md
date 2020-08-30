@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hello World! I'm Bryce Angaran 👋</h1>
-
-(https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS/)
+![image](https://github.com/bryceangaran/bryceangaran/dino.gif)
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
 - 🔭 I’m currently working on [My portfolio](https://bryceangaran.github.io/)
