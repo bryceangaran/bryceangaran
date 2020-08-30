@@ -1,5 +1,4 @@
-<h1 align="center">Hello World! 👋</h1>
-<h2 align="center">I'm Bryce Angaran</h2>
+<h1 align="center">👋 Hello World! I'm Bryce Angaran 👋</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
 - 🔭 I’m currently working on [My portfolio](https://bryceangaran.github.io/)
