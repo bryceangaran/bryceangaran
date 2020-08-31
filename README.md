@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello World! I'm Bryce Angaran 👋</h1>
 
-<h3 align="center">Aspiring Full Stack Developer</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
 
 ![Alt Text](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
